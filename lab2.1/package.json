@@ -1,0 +1,17 @@
+{
+  "name": "ece-ast",
+  "description": "NodeJS project for ECE class",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "ajax": "0.0.4",
+    "bootstrap": "^4.3.1",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "nodemon": "1.19.4"
+  },
+  "devDependencies": {
+  }
+}
